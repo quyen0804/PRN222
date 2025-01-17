@@ -1,0 +1,15 @@
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\bin\Debug\net8.0\ServerApp.exe
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\bin\Debug\net8.0\ServerApp.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ServerApp.sourcelink.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ServerApp.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\httpclient\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
