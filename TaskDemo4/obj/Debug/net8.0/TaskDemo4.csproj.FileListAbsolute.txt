@@ -1,0 +1,15 @@
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\bin\Debug\net8.0\TaskDemo4.exe
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\bin\Debug\net8.0\TaskDemo4.deps.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\bin\Debug\net8.0\TaskDemo4.runtimeconfig.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\bin\Debug\net8.0\TaskDemo4.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\bin\Debug\net8.0\TaskDemo4.pdb
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\TaskDemo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\TaskDemo4.AssemblyInfoInputs.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\TaskDemo4.AssemblyInfo.cs
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\TaskDemo4.csproj.CoreCompileInputs.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\TaskDemo4.sourcelink.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\TaskDemo4.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\refint\TaskDemo4.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\TaskDemo4.pdb
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\TaskDemo4.genruntimeconfig.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\TaskDemo4\obj\Debug\net8.0\ref\TaskDemo4.dll

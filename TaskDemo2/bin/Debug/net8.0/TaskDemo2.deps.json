@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaskDemo2/1.0.0": {
+        "runtime": {
+          "TaskDemo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskDemo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
