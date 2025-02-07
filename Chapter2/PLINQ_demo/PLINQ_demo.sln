@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ_demo", "PLINQ_demo.csproj", "{B5912AC8-8ABC-43DA-A12F-22FC4B30A5EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ_demo2", "..\PLINQ_demo2\PLINQ_demo2.csproj", "{FFCEC837-8541-4923-99D6-EA033ED7E4E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5912AC8-8ABC-43DA-A12F-22FC4B30A5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5912AC8-8ABC-43DA-A12F-22FC4B30A5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5912AC8-8ABC-43DA-A12F-22FC4B30A5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5912AC8-8ABC-43DA-A12F-22FC4B30A5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCEC837-8541-4923-99D6-EA033ED7E4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCEC837-8541-4923-99D6-EA033ED7E4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCEC837-8541-4923-99D6-EA033ED7E4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCEC837-8541-4923-99D6-EA033ED7E4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

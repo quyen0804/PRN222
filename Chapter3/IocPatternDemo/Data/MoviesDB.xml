@@ -1,0 +1,30 @@
+﻿<Movies>
+	<Movie>
+		<ID>
+			3
+		</ID>
+		<Title>
+			King Kong
+		</Title>
+		<OscarNomination>
+			4
+		</OscarNomination>
+		<OscarWin>
+			3
+		</OscarWin>
+	</Movie>
+	<Movie>
+		<ID>
+			5
+		</ID>
+		<Title>
+			Superman Returns
+		</Title>
+		<OscarNomination>
+			1
+		</OscarNomination>
+		<OscarWin>
+			0
+		</OscarWin>
+	</Movie>
+</Movies>

@@ -1,0 +1,15 @@
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\bin\Debug\net8.0\PLINQ_demo2.exe
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\bin\Debug\net8.0\PLINQ_demo2.deps.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\bin\Debug\net8.0\PLINQ_demo2.runtimeconfig.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\bin\Debug\net8.0\PLINQ_demo2.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\bin\Debug\net8.0\PLINQ_demo2.pdb
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\PLINQ_demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\PLINQ_demo2.AssemblyInfoInputs.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\PLINQ_demo2.AssemblyInfo.cs
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\PLINQ_demo2.csproj.CoreCompileInputs.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\PLINQ_demo2.sourcelink.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\PLINQ_demo2.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\refint\PLINQ_demo2.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\PLINQ_demo2.pdb
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\PLINQ_demo2.genruntimeconfig.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\PLINQ_demo2\obj\Debug\net8.0\ref\PLINQ_demo2.dll

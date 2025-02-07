@@ -1,0 +1,15 @@
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\bin\Debug\net8.0\Asynchronous_demo.exe
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\bin\Debug\net8.0\Asynchronous_demo.deps.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\bin\Debug\net8.0\Asynchronous_demo.runtimeconfig.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\bin\Debug\net8.0\Asynchronous_demo.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\bin\Debug\net8.0\Asynchronous_demo.pdb
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\Asynchronous_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\Asynchronous_demo.AssemblyInfoInputs.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\Asynchronous_demo.AssemblyInfo.cs
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\Asynchronous_demo.csproj.CoreCompileInputs.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\Asynchronous_demo.sourcelink.json
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\Asynchronous_demo.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\refint\Asynchronous_demo.dll
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\Asynchronous_demo.pdb
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\Asynchronous_demo.genruntimeconfig.cache
+D:\TailieuLuutru\Study\25SPRING\prn222\PRN222\ex\Asynchronous_demo\obj\Debug\net8.0\ref\Asynchronous_demo.dll
