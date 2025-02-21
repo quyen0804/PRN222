@@ -11,15 +11,11 @@ namespace FUNewsManagement.Repository
         private static NewsRepository _instance;
         private readonly FunewsManagementContext _context;
 
-        public NewsRepository() { 
-            _context = new FunewsManagementContext.Instance();
-        }
-
         public NewsArticle GetNewsArticleById(string id)
         {
             try
             {
-                var news = _context.NewsArticles
+                var news = FunewsManagementContext.Instance.NewsArticles
                     .Where(n=> n.NewsArticleId == id)
                     .OrderBy(a => a.NewsTitle)
                     .FirstOrDefault();

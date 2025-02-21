@@ -16,6 +16,8 @@ public partial class FunewsManagementContext : DbContext
     public FunewsManagementContext()
     {
     }
+
+    // Thuộc tính Singleton
     public static FunewsManagementContext Instance => _instance;
 
     public FunewsManagementContext(DbContextOptions<FunewsManagementContext> options)

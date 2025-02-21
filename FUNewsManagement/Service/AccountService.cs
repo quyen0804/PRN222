@@ -12,6 +12,10 @@ namespace FUNewsManagement.Service
             _accountRepository = accountRepository;
         }
 
+        public List<SystemAccount> SearchAccounts(short? accountId, string accountName, string accountEmail, int? accountRole)
+        {
+            return _accountRepository.SearchAccounts(accountId, accountName, accountEmail, accountRole);
+        }
         public SystemAccount GetAccountById(short id)
         {
             return _accountRepository.GetSystemAccountById(id);

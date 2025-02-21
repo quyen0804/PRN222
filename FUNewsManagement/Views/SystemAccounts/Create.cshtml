@@ -1,7 +1,7 @@
 ﻿@model FUNewsManagement.Models.SystemAccount
 
 @{
-    ViewData["Title"] = "Create New Account";
+    ViewData["Title"] = "Create";
 }
 
 <h1>Create</h1>
@@ -38,8 +38,7 @@
                 <span asp-validation-for="AccountPassword" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <button type="submit" class="btn btn-success px-4">Create Account</button>
-                <a asp-action="Index" class="btn btn-secondary px-4">Cancel</a>
+                <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>

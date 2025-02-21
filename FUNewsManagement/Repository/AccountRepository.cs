@@ -26,6 +26,8 @@ namespace FUNewsManagement.Repository
             return _instance; // Return the single instance
         }
 
+
+
         public SystemAccount GetSystemAccountById(short id)
         {
             try
@@ -73,5 +75,31 @@ namespace FUNewsManagement.Repository
             _context.Entry(account).State = EntityState.Modified;
             _context.SaveChanges();
         }
+
+
+        public List<SystemAccount> SearchAccounts(short? accountId, string accountName, string accountEmail, int? accountRole)
+        {
+            var query = _context.SystemAccounts.AsQueryable();
+
+            if (accountId.HasValue && accountId > 0)
+            {
+                query = query.Where(a => a.AccountId == accountId.Value);
+            }
+            if (!string.IsNullOrWhiteSpace(accountName))
+            {
+                query = query.Where(a => a.AccountName.Contains(accountName));
+            }
+            if (!string.IsNullOrWhiteSpace(accountEmail))
+            {
+                query = query.Where(a => a.AccountEmail.Contains(accountEmail));
+            }
+            if (accountRole.HasValue)
+            {
+                query = query.Where(a => a.AccountRole == accountRole.Value);
+            }
+
+            return query.ToList();
+        }
     }
 }
+
